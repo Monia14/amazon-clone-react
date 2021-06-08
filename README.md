@@ -1,4 +1,13 @@
 # Amazon Clone 
+Deployed app: https://clone-11f8d.web.app
+
+
+This project includes:
+- main page with list of product
+- login/create new account
+- cart feature
+- payment proccesing
+- order list 
 
 Technologies used:
 - Firebase - cloud storage, login

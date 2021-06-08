@@ -14,6 +14,8 @@ Technologies used:
 
 - Firebase - cloud storage, authorization
 - Stripe - online payment
+- Axios - http
+- Express - 
 
 # Getting Started with Create React App
 

@@ -1,18 +1,19 @@
-# Amazon Clone 
+# Amazon Clone
+
 Deployed app: https://clone-11f8d.web.app
 
-
 This project includes:
-- main page with list of product
+
+- main page with list of products
 - login/create new account
 - cart feature
 - payment proccesing
-- order list 
+- order list
 
 Technologies used:
-- Firebase - cloud storage, login
-- Stripe - online payment
 
+- Firebase - cloud storage, authorization
+- Stripe - online payment
 
 # Getting Started with Create React App
 
